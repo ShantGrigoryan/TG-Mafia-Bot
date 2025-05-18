@@ -8,7 +8,7 @@ class GameStates(StatesGroup):
     Night = State()
 
     # День
-    Dai_Vote = State()
+    Day_Vote = State()
 
     # Завершение игры
     Game_Over = State()
